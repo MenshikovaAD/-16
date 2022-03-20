@@ -1,0 +1,27 @@
+[
+  {
+    "ProductCode": 1,
+    "ProductName": "молоко",
+    "ProductPrice": 69
+  },
+  {
+    "ProductCode": 2,
+    "ProductName": "сыр",
+    "ProductPrice": 159
+  },
+  {
+    "ProductCode": 3,
+    "ProductName": "яйцо",
+    "ProductPrice": 109
+  },
+  {
+    "ProductCode": 4,
+    "ProductName": "торт",
+    "ProductPrice": 566
+  },
+  {
+    "ProductCode": 5,
+    "ProductName": "вода",
+    "ProductPrice": 42
+  }
+]
